@@ -167,13 +167,19 @@ Computer Science graduate specializing in **AI-driven cybersecurity** for critic
 
 ### 📊 **GitHub Analytics**
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Irfanchillasi&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=3389FF&icon_color=3389FF&count_private=true)
+<div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Irfanchillasi&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=3389FF)
+<img src="https://github-readme-stats.vercel.app/api?username=Irfanchillasi&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=3389FF&icon_color=3389FF&count_private=true" alt="GitHub Stats" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Irfanchillasi&theme=dark&hide_border=true&background=0d1117&ring=3389FF&fire=3389FF&currStreakLabel=3389FF" alt="GitHub Streak" width="48%" />
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Irfanchillasi&theme=dark&hide_border=true&background=0d1117&ring=3389FF&fire=3389FF&currStreakLabel=3389FF)
+</div>
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Irfanchillasi&theme=react-dark&hide_border=true&bg_color=0d1117&color=3389FF&line=3389FF&point=00ff41)
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Irfanchillasi&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=3389FF" alt="Top Languages" width="48%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Irfanchillasi&theme=react-dark&hide_border=true&bg_color=0d1117&color=3389FF&line=3389FF&point=00ff41" alt="Activity Graph" width="98%" />
+
+</div>
 
 </div>
 
