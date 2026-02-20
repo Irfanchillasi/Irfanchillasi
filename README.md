@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=6,12,20&height=300&section=header&text=Muhammad%20Irfan&fontSize=80&fontColor=00ff41&animation=twinkling&fontAlignY=45&desc=AI%20Security%20Researcher%20|%20Deep%20Learning%20|%20Critical%20Infrastructure%20Defense&descSize=20&descAlignY=65)
+![Header](https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:0a0a0a,100:1a1a1a&height=300&section=header&text=Muhammad%20Irfan&fontSize=70&fontColor=00ff41&animation=scaleIn&fontAlignY=40&desc=AI%20Security%20Researcher%20|%20Deep%20Learning%20|%20Critical%20Infrastructure%20Defense&descSize=18&descAlignY=60&stroke=3389FF&strokeWidth=2)
 
 ### 🛡️ *Engineering Next-Generation AI Defense Systems*
 
@@ -167,21 +167,13 @@ Computer Science graduate specializing in **AI-driven cybersecurity** for critic
 
 ### 📊 **GitHub Analytics**
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Irfanchillasi&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=3389FF&icon_color=3389FF&count_private=true" alt="GitHub Stats" />
-</p>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Irfanchillasi&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=3389FF&icon_color=3389FF&count_private=true)](https://github.com/Irfanchillasi)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Irfanchillasi&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=3389FF" alt="Top Languages" />
-</p>
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Irfanchillasi&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=3389FF)](https://github.com/Irfanchillasi)
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Irfanchillasi&theme=dark&hide_border=true&background=0d1117&ring=3389FF&fire=3389FF&currStreakLabel=3389FF" alt="GitHub Streak" />
-</p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Irfanchillasi&theme=dark&hide_border=true&background=0d1117&ring=3389FF&fire=3389FF&currStreakLabel=3389FF)](https://github.com/Irfanchillasi)
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Irfanchillasi&theme=react-dark&hide_border=true&bg_color=0d1117&color=3389FF&line=3389FF&point=00ff41" alt="Contribution Graph" />
-</p>
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Irfanchillasi&theme=react-dark&hide_border=true&bg_color=0d1117&color=3389FF&line=3389FF&point=00ff41)](https://github.com/Irfanchillasi)
 
 </div>
 
